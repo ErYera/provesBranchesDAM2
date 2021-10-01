@@ -1,3 +1,5 @@
 Fitxer inicial!
 
 Hola món!
+
+Edit a l'ariux hola.txt de part de'n Gerard.
